@@ -8,9 +8,10 @@ package Modul_3.Hewan;
  *
  * @author ASUS
  */
-public class Kucing {
+public class Kucing extends Hewan{
     //Override
     public void Suara(){
         System.out.println("Meong! Meong!");
     }
 }
+
